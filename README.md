@@ -13,10 +13,10 @@ Over time, materials that are currently posted at jcp.org will be migrated here.
 
 * As required by JSR 348 we have created a ''Discussion'' mailing list that you can use to discuss EC matters and to provide feedback to the EC. Go <a href="http://java.net/projects/jcp-ec/lists">here</a> to subscribe. (You'll need a java.net login to subscribe. Messages from non-subscibers are silently ignored.) 
 * Other useful links:
-** <a href="https://github.com/jcp-org/jcp-ec/issues">Our Issue Tracker</a>.
-** <a href="http://jcp.org/en/participation/committee">List of Executive Committee members and other EC information</a>.
-** <a href="http://jcp.org/en/resources/EC_summaries">Meeting minutes and materials</a>.
-** <a href="https://github.com/jcp-org/jcp-ec/pages/DocumentIndex">Document archive</a>.
+	+ <a href="https://github.com/jcp-org/jcp-ec/issues">Our Issue Tracker</a>.
+	+ <a href="http://jcp.org/en/participation/committee">List of Executive Committee members and other EC information</a>.
+	+ <a href="http://jcp.org/en/resources/EC_summaries">Meeting minutes and materials</a>.
+	+ <a href="https://github.com/jcp-org/jcp-ec/pages/DocumentIndex">Document archive</a>.
 ----
 
 ![Java Community Process](./images/JSR-lifecycle.jpg)
