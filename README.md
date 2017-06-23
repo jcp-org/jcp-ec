@@ -16,7 +16,7 @@ Over time, materials that are currently posted at jcp.org will be migrated here.
 	+ <a href="https://github.com/jcp-org/jcp-ec/issues">Our Issue Tracker</a>.
 	+ <a href="http://jcp.org/en/participation/committee">List of Executive Committee members and other EC information</a>.
 	+ <a href="http://jcp.org/en/resources/EC_summaries">Meeting minutes and materials</a>.
-	+ <a href="https://github.com/jcp-org/jcp-ec/pages/DocumentIndex">Document archive</a>.
+	+ <a href="https://github.com/jcp-org/jcp-ec/wiki/DocumentIndex">Document archive</a>.
 ----
 
 ![Java Community Process](./images/JSR-lifecycle.jpg)
